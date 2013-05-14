@@ -102,6 +102,6 @@ __Bold__
 
 * Useful Links
 
-[Old markdown:](http://daringfireball.net/projects/markdown/syntax#list) 
+[Old markdown](http://daringfireball.net/projects/markdown/syntax#list) 
 
-[New markdown (new features added to old one):](https://help.github.com/articles/github-flavored-markdown)
+[New markdown (a few new features added to old one)](https://help.github.com/articles/github-flavored-markdown)
